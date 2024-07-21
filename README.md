@@ -1,2 +1,2 @@
 # CodignTest
-iPad test
+iPad Test
